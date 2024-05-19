@@ -43,7 +43,6 @@ font-weight: 700;
 line-height: normal;
 }
 .div3{
-     border: 2px solid black;
     width: 400px;
     height: 225px;
     transition: 3s;
@@ -105,7 +104,7 @@ margin-bottom: 50px;
     background-size: cover;
     position: absolute;
     right: 0px;
-    top: 400px; border: 2px solid black;
+    top: 400px;
 }
 .p-4{
 position: absolute;
@@ -118,7 +117,7 @@ top: 500px;
     top: 300px;
     width: 400px;
     height: 360px;
-    transition: 3s; border: 2px solid black;
+    transition: 3s;
 }
 .div9:hover{
     width: 700px;
@@ -126,7 +125,7 @@ top: 500px;
 }
 .s-1{
     
-    height: 1400px;
+    height: 600px;
 }
 .s-2{ 
     margin: 7% 13%;
@@ -138,15 +137,15 @@ top: 500px;
     top: 150px;
     right: 50px;
     width: 400px;
-    height: 400px; display: inline-block;    border: 2px solid black;
-}
+    height: 400px; display: inline-block;  
+} 
 .div10{ 
       position: absolute;
     left: 50px;
     top: 150px;
     width: 400px;
     height: 300px;
-    transition: 3s;    border: 2px solid black;
+    transition: 3s; 
     display: inline-block;
 }
 .div10:hover{
@@ -157,7 +156,7 @@ top: 500px;
     position: absolute;
     top: 500px;
     left: 50px;
-    border: 2px solid black;
+
     width: 300px;
     height: 300px;
     transition: 3s;
@@ -171,18 +170,6 @@ top: 500px;
     position: absolute;
     right: 200px;
     top: 550px;
-}
-.b11{
-    background-color: black;
-}
-h2{
-    color: red;
-}
-h1{
-    color: red;
-}
-.red{
-    color: red;
 }
 .div13{
     width: 400px;
@@ -435,4 +422,7 @@ h1{
 }
 .s-5{
     margin: 5% 5% 800px;
+}
+.black{
+    color: black;
 }
