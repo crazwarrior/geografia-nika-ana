@@ -134,10 +134,10 @@ top: 500px;
 }
 .img3{
     position: absolute;
-    top: 20%;
-    right: 5%;
-    width: 34%;
-    height: 58%; display: inline-block;  
+    top: 150px;
+    right: 50px;
+    width: 400px;
+    height: 400px; display: inline-block;  
 } 
 .div10{ 
       position: absolute;
